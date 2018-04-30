@@ -1,1 +1,1 @@
-adding a common line.
+adding a common line, adding some text from cli.
